@@ -315,3 +315,6 @@ print(cola)
 seRetira = cola.pop(0)
 print(f'antendido el cliente: {seRetira}')
 print(cola)
+
+for i in seleccionArgentina:
+    print(f'{i} > {seleccionArgentina[i]}')
