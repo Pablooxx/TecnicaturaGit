@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const holaMundo = {
     data(){
         return{
