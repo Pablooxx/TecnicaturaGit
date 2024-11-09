@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 const holaMundo = {
     data(){
         return{
@@ -6,4 +5,4 @@ const holaMundo = {
         }
     }
 }
-Vue.createapp(holaMundo).mount('app')
+Vue.createapp(holaMundo).mount('#app')
