@@ -1,13 +1,18 @@
 <script setup>
+import linkedin from '/src/assets/linkedin_icon.svg';
+import instagram from '/src/assets/instagram_icon.svg';
+import github from '/src/assets/github_icon.svg';
+import curriculum from '/src/assets/cv_resume_icon.svg';
+
 const title = 'Pablo Aparicio';
 const descripcion = 'Quality Assurance - UTN';
 const residencia = 'San Miguel de Tucumán, Tucumán, Argentina';
 const presentacion = 'Hola, Bienvenido a mi portafolio de proyectos. Soy un Quality Assurance que esta aprendiendo programación en la UTN.';
 const redesSociales = [
-  { id: 1, name: 'linkedin', src: '/src/assets/linkedin_icon.svg', url: 'https://www.linkedin.com/in/pabloaparicio7/' },
-  { id: 2, name: 'instagram', src: '/src/assets/instagram_icon.svg', url: 'https://www.instagram.com/pabloaparicio7/' },
-  { id: 3, name: 'github', src: '/src/assets/github_icon.svg', url: 'https://github.com/Pablooxx' },
-  { id: 4, name: 'curriculum', src: '/src/assets/cv_resume_icon.svg', url: 'https://drive.google.com/file/d/10yfv3TUwjpByLJ4ZPw7CKS6NDO_dbvvh/view?usp=sharing' }
+  { id: 1, name: 'linkedin', src: linkedin, url: 'https://www.linkedin.com/in/pabloaparicio7/' },
+  { id: 2, name: 'instagram', src: instagram, url: 'https://www.instagram.com/pabloaparicio7/' },
+  { id: 3, name: 'github', src: github, url: 'https://github.com/Pablooxx' },
+  { id: 4, name: 'curriculum', src: curriculum, url: 'https://drive.google.com/file/d/10yfv3TUwjpByLJ4ZPw7CKS6NDO_dbvvh/view?usp=sharing' }
 ];
 const telefono = '+54 9 381-6173497';
 

@@ -1,6 +1,8 @@
 <script setup>
-import icono2 from '/src/assets/programmer-svgrepo-com.svg';
+
 import icono1 from '/src/assets/quality-premium-certificate-svgrepo-com.svg'
+import icono2 from '/src/assets/programmer-svgrepo-com.svg';
+
 import { ref } from 'vue';
 const titulo = 'Quality Control Analyst';
 const fecha = '2022-Actualmente';
