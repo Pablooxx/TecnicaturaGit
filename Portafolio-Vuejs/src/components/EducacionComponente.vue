@@ -10,7 +10,7 @@
 
   const educacion = ref([]);
   educacion.value = [
-    { fecha: '2024', title: 'Tecnicatura Universitaria en Programacion', descripcion: 'Actualmente sigo cursando la Tecnicatura en Programacion, y tengo planeado empezar cursos de ciberseguridad' },
+    { fecha: '2024', title: 'Tecnicatura Universitaria en Programacion', descripcion: 'Actualmente sigo cursando la Tecnicatura en Programacion, y mi camino a seguir es la de automatización en testing' },
     { fecha: '2022', title: 'Quality Assurance', descripcion: 'Aprobe el curso de Quality Assurance de la UTN-FRT(Universidad Tecnologica Nacional-Facultad Regional Tucumán)' },
 ];
 </script>

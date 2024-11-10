@@ -7,7 +7,7 @@ misProyectos.value = ([
         id: 1,
         src: proyecto1,
         titulo: "Preguntados",
-        descripcion: "Creamos un codigo similar al juego Preguntados en Java el cual nos permite competir con otro jugador para poner a prueba nuestros conocimientos.",
+        descripcion: "Creamos un codigo similar al juego Preguntados en lenguaje Java, el cual nos permite competir con otro jugador para poner a prueba nuestros conocimientos.",
         githubLink: "https://github.com/PowerSystem2024/FinalJavaLosMagios"
     }
 ])
