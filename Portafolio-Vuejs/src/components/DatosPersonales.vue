@@ -7,7 +7,7 @@ const redesSociales = [
   { id: 1, name: 'linkedin', src: '/src/assets/linkedin_icon.svg', url: 'https://www.linkedin.com/in/pabloaparicio7/' },
   { id: 2, name: 'instagram', src: '/src/assets/instagram_icon.svg', url: 'https://www.instagram.com/pabloaparicio7/' },
   { id: 3, name: 'github', src: '/src/assets/github_icon.svg', url: 'https://github.com/Pablooxx' },
-  { id: 4, name: 'curriculum', src: '/src/assets/cv_resume_icon.svg', url: '' }
+  { id: 4, name: 'curriculum', src: '/src/assets/cv_resume_icon.svg', url: 'https://drive.google.com/file/d/10yfv3TUwjpByLJ4ZPw7CKS6NDO_dbvvh/view?usp=sharing' }
 ];
 const telefono = '+54 9 381-6173497';
 
